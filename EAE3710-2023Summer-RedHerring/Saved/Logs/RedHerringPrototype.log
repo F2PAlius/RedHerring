@@ -1817,3 +1817,28 @@ Make sure 'BP_Baitman_C' has been compiled for  Get ActorsInteracted_0
 [2023.07.28-19.10.39:732][874]LogContentValidation: Display: Validating /Game/Blueprints/Interactables/TextHolders/BP_Puff.BP_Puff_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Puff_C_UAID_E073E728CDFDC29901_1582603871
 [2023.07.28-19.10.39:732][874]LogContentValidation: Display: Validating /Game/Blueprints/Interactables/TextHolders/BP_Whiskers.BP_Whiskers_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Whiskers_C_UAID_E073E728CDFD1F9501_1882304959
 [2023.07.28-19.10.39:732][874]LogContentValidation: Display: Validating /Game/Blueprints/Interactables/TextHolders/BP_Baitman.BP_Baitman_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Baitman_C_UAID_E073E728CDFD979901_1194117304
+[2023.07.28-19.11.03:546][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.07.28-19.11.07:689][ 89]LogSlate: Window 'Check Out Assets' being destroyed
+[2023.07.28-19.11.07:731][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.28-19.11.07:821][ 89]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/TextHolders/BP_Angel
+[2023.07.28-19.11.07:823][ 89]LogSavePackage: Moving '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Saved/BP_Angel13BC7B0F43BFFFAEA5CAFE983FC5E581.tmp' to '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Content/Blueprints/Interactables/TextHolders/BP_Angel.uasset'
+[2023.07.28-19.11.07:845][ 89]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/TextHolders/BP_Baitman
+[2023.07.28-19.11.07:845][ 89]LogSavePackage: Moving '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Saved/BP_Baitman89FE08614B0E405B7D86FA97DE9B04D8.tmp' to '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Content/Blueprints/Interactables/TextHolders/BP_Baitman.uasset'
+[2023.07.28-19.11.07:866][ 89]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/TextHolders/BP_Puff
+[2023.07.28-19.11.07:866][ 89]LogSavePackage: Moving '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Saved/BP_PuffB2C17FAE4319A6B73BF3C2A9D413A340.tmp' to '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Content/Blueprints/Interactables/TextHolders/BP_Puff.uasset'
+[2023.07.28-19.11.07:886][ 89]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/TextHolders/BP_Whiskers
+[2023.07.28-19.11.07:886][ 89]LogSavePackage: Moving '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Saved/BP_Whiskers0A855FB4421CB568C5EFBDBF3FE06D84.tmp' to '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Content/Blueprints/Interactables/TextHolders/BP_Whiskers.uasset'
+[2023.07.28-19.11.07:888][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/DT_Fonts" FILE="../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Content/UI/DT_Fonts.uasset" SILENT=true
+[2023.07.28-19.11.07:889][ 89]LogSavePackage: Moving output files for package: /Game/UI/DT_Fonts
+[2023.07.28-19.11.07:890][ 89]LogSavePackage: Moving '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Saved/DT_Fonts4E21FA53490F455E47A6C7BC381FAC08.tmp' to '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Content/UI/DT_Fonts.uasset'
+[2023.07.28-19.11.07:891][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_DisplayText" FILE="../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Content/UI/WB_DisplayText.uasset" SILENT=true
+[2023.07.28-19.11.07:915][ 89]LogSavePackage: Moving output files for package: /Game/UI/WB_DisplayText
+[2023.07.28-19.11.07:916][ 89]LogSavePackage: Moving '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Saved/WB_DisplayText7787376149E05FC0867D2EA511943762.tmp' to '../../../../../../Users/ajton/OneDrive/Documents/GitHub/RedHerring/EAE3710-2023Summer-RedHerring/Content/UI/WB_DisplayText.uasset'
+[2023.07.28-19.11.07:925][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 310 ms)
+[2023.07.28-19.11.07:932][ 89]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.28-19.11.07:932][ 89]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_DisplayText.WB_DisplayText
+[2023.07.28-19.11.07:933][ 89]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/UI/DT_Fonts.DT_Fonts
+[2023.07.28-19.11.07:933][ 89]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interactables/TextHolders/BP_Angel.BP_Angel
+[2023.07.28-19.11.07:933][ 89]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interactables/TextHolders/BP_Puff.BP_Puff
+[2023.07.28-19.11.07:933][ 89]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interactables/TextHolders/BP_Whiskers.BP_Whiskers
+[2023.07.28-19.11.07:933][ 89]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Interactables/TextHolders/BP_Baitman.BP_Baitman
